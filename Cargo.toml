@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3" 
+
+members = [
+    "serialize_macro",
+    "serialize_macro_traits",
+    "app"
+]
